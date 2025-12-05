@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
-    "version": "1.12.1"   
+    "ip": "minecraft-pgku.aternos.me", 
+    "port": 39214,   
+    "version": "1.20.1"   
   },
 
   "position": {
